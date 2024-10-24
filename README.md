@@ -12,3 +12,8 @@ Using Arize-Phoenix
 
 - https://docs.arize.com/phoenix/quickstart
 - https://docs.arize.com/phoenix/deployment/persistence
+
+Create a .env with the below keys:
+
+- OPENAI_API_KEY= <your_openai_api_key>
+- LANGTRACE_API_KEY= <your_local_langtrace_api_key>
