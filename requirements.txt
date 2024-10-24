@@ -1,0 +1,8 @@
+python-dotenv
+llama-index
+langchain-openai
+langchain_core
+langtrace-python-sdk
+arize-phoenix
+arize-phoenix-otel
+openinference-instrumentation-langchain
