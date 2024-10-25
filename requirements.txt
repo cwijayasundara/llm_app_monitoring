@@ -1,8 +1,14 @@
 python-dotenv
 llama-index
 langchain-openai
-langchain_core
+langchain-core
 langtrace-python-sdk
 arize-phoenix
 arize-phoenix-otel
 openinference-instrumentation-langchain
+langchain-community
+tiktoken
+langchainhub
+langchain-chroma
+langchain
+beautifulsoup4
