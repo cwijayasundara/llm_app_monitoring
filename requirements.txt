@@ -12,3 +12,6 @@ langchainhub
 langchain-chroma
 langchain
 beautifulsoup4
+weave
+openai
+setuptools
