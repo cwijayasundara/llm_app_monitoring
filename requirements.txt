@@ -16,3 +16,4 @@ weave
 openai
 setuptools
 agentops
+langgraph
