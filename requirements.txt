@@ -17,3 +17,5 @@ openai
 setuptools
 agentops
 langgraph
+setuptools
+langsmith
